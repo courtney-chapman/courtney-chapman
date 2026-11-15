@@ -12,11 +12,10 @@ I design and build solutions to complex business, financial, and operational pro
 
 ## What I build
 
-- **Enterprise systems & workflows:** Integrated solutions that connect business processes, data, technology, and operational controls.
-- **AI-assisted and decision-support tools:** Workflows for research, analysis, documentation, and decisions that distinguish verified facts, assumptions, and missing evidence.
-- **Business applications:** Purpose-built tools that make complex workflows easier to use.
-- **Analytics solutions:** Dashboards, financial models, operational reporting, and data transformation.
-- **Workflow automation:** Tools that reduce repetitive work, improve consistency, and connect fragmented processes.
+- **Enterprise solutions:** Business systems and integrated workflows that connect processes, data, technology, and operational controls.
+- **AI-assisted tools:** Research, analysis, decision support, and structured documentation.
+- **Analytics & automation:** Dashboards, financial models, reporting, data transformation, and process automation.
+- **Business applications:** Lightweight, purpose-built applications and interactive tools for focused tasks.
 
 ## Technical capabilities
 
@@ -26,18 +25,4 @@ I design and build solutions to complex business, financial, and operational pro
 - **Development and automation:** HTML · CSS · JavaScript · VBA/macros · Power Automate · Workato
 - **Enterprise systems and platforms:** SAP Ariba · Deltek Costpoint · JAGGAER · Unanet · Salesforce · ServiceNow · Documentum · Jira · Confluence
 
-## Business & Domain Expertise
-
-My work spans enterprise financial and operational management, with extensive experience in federal government contracting and complex, regulated environments. I understand how business functions connect, where handoffs break down, and how systems can make the work more reliable.
-
-- **Financial & Project Control:** Financial planning, forecasting, cost management, and performance analysis.
-- **Enterprise Operations:** Procurement, contracts, subcontracts, supply chain, materials management, and manufacturing operations.
-- **Governance & Compliance:** Government property, regulatory requirements, internal controls, and business-system compliance.
-- **Business Transformation:** Enterprise systems implementation, process redesign, organizational integration, and operational improvement.
-- **Strategic Decision Support:** Business development and executive reporting.
-
-## Design approach
-
-- Understand the underlying problem and real workflow before selecting technology.
-- Make assumptions, calculations, and decision logic transparent.
-- Build practical, maintainable tools that preserve human judgment and accountability.
+**Domain experience:** Enterprise finance and project controls; procurement, contracts, and supply chain; government property and regulatory compliance; business development and transformation—primarily in federal government contracting and complex enterprise environments.
