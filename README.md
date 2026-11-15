@@ -5,10 +5,7 @@ I design and build solutions to complex business, financial, and operational pro
 ## Explore my work
 
 - [Project Portfolio](https://github.com/courtney-chapman/portfolio-public) — case studies, project documentation, and demonstrations on GitHub.
-- [Visual Portfolio](https://courtneypetersonchapman.notion.site/) — a designed overview of selected work.
 - [Tools & Plugins](https://github.com/courtney-chapman/tools-public) — reusable tools for professional workflows.
-- [How I Work](https://raw.githubusercontent.com/courtney-chapman/portfolio-public/main/01-projects/How%20I%20Work.pdf) — a slide deck on how I diagnose problems and design solutions.
-- [LinkedIn](https://www.linkedin.com/in/courtney-peterson-chapman/) — professional experience and background.
 
 ## What I build
 
@@ -26,3 +23,9 @@ I design and build solutions to complex business, financial, and operational pro
 - **Enterprise systems and platforms:** SAP Ariba · Deltek Costpoint · JAGGAER · Unanet · Salesforce · ServiceNow · Documentum · Jira · Confluence
 
 **Domain experience:** Enterprise finance and project controls; procurement, contracts, and supply chain; government property and regulatory compliance; business development and transformation—primarily in federal government contracting and complex enterprise environments.
+
+## More links
+
+- [Visual Portfolio](https://courtneypetersonchapman.notion.site/) — a designed overview of selected work.
+- [How I Work](https://raw.githubusercontent.com/courtney-chapman/portfolio-public/main/01-projects/How%20I%20Work.pdf) — a slide deck on how I diagnose problems and design solutions.
+- [LinkedIn](https://www.linkedin.com/in/courtney-peterson-chapman/) — professional experience and background.
