@@ -19,11 +19,22 @@ Power BI and analytics are central to my day-to-day work. I use data and reporti
 
 ## What I work on
 
-- Power BI, analytics, dashboards, and operational reporting
+### Industries and environments
+
+- Federal government contracting
+- Government prime contractor operations
+
+### Functions
+
 - Procurement operating models, from intake to receipt
 - Government property compliance and audit readiness
 - Contract lifecycle and obligation tracking
 - Finance and financial operations
 - Materials management and manufacturing operations
 - Business development
-- AI-assisted workflows that keep verified facts, assumptions, and missing evidence separate
+- Analytics, dashboards, and operational reporting
+- AI-assisted workflow design that keeps verified facts, assumptions, and missing evidence separate
+
+### Software and tools
+
+- Power BI
