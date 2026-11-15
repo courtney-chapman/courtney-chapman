@@ -7,7 +7,7 @@ I design and build solutions to complex business, financial, and operational pro
 ## Explore my work
 
 <a href="https://github.com/courtney-chapman/portfolio-public"><img src="images/portfolio.png" alt="Portfolio: governed AI workflows, public demonstrations for federal operations and compliance." width="49%"></a>
-<a href="https://github.com/courtney-chapman/tools-public"><img src="images/tools.png" alt="Tools and Plugins: offline browser apps and Codex plugins for government property and procurement work." width="49%"></a>
+<a href="https://github.com/courtney-chapman/tools-public"><img src="images/tools.png" alt="Tools and Plugins: offline browser apps and AI plugins for government property and procurement work." width="49%"></a>
 
 - [Project Portfolio](https://github.com/courtney-chapman/portfolio-public) — case studies, project documentation, and demonstrations on GitHub.
 - [Tools & Plugins](https://github.com/courtney-chapman/tools-public) — reusable tools for professional workflows.
