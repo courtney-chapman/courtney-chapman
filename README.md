@@ -1,22 +1,29 @@
-Hi, I'm Courtney
+# Hi, I'm Courtney
 
-*Complexity isn't chaos: it's potential.*
+I'm a solutions architect and operator working across procurement transformation, business systems, and government contracting. I turn compliance requirements into practical guidance people can use and build systems that catch risk early while leaving people the judgment calls.
 
-I'm a solutions architect and operator in procurement transformation and business systems for government contracting. I turn compliance requirements into practical guidance people can actually follow, and I build systems that catch risk early and leave people the judgment calls.
+Power BI and analytics are central to my day-to-day work. I use data and reporting to make performance, exceptions, and operational risk visible so teams can make better decisions. The projects here show part of that work, not the full scope of my background.
 
-Where to start
+## Where to start
 
-- **[My Portfolio](https://github.com/courtney-chapman/portfolio-public):** project stories, case briefs and demonstrations across procurement, contracts and government property.
-- **[Tools and Plugins](https://github.com/courtney-chapman/tools-public):** Codex plugins for procurement work, plus offline browser apps for government property records and DD Form 1149.
-- **[Visual portfolio](https://courtneypetersonchapman.notion.site/):** the same work, designed for reading.
+### GitHub
 
-What I work on
+- **[My Portfolio](https://github.com/courtney-chapman/portfolio-public):** project stories, case briefs, and demonstrations across my work.
+- **[My Tools and Plugins](https://github.com/courtney-chapman/tools-public):** reusable tools and demonstrations for professional workflows.
 
+### More about my work
+
+- **[My Portfolio](https://courtneypetersonchapman.notion.site/):** a visual portfolio designed for reading.
+- **[How I Work](https://raw.githubusercontent.com/courtney-chapman/portfolio-public/main/01-projects/How%20I%20Work.pdf):** a slide deck on how I diagnose, connect, and build.
+- **[LinkedIn](https://www.linkedin.com/in/courtney-peterson-chapman/):** my professional background and experience.
+
+## What I work on
+
+- Power BI, analytics, dashboards, and operational reporting
 - Procurement operating models, from intake to receipt
 - Government property compliance and audit readiness
 - Contract lifecycle and obligation tracking
-- AI-assisted workflows that keep verified facts, assumptions and missing evidence separate
-
-Connect
-
-[LinkedIn](https://www.linkedin.com/in/courtney-peterson-chapman/)
+- Finance and financial operations
+- Materials management and manufacturing operations
+- Business development
+- AI-assisted workflows that keep verified facts, assumptions, and missing evidence separate
