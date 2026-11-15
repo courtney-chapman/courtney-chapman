@@ -26,15 +26,14 @@ Power BI and analytics are central to my day-to-day work. I use data and reporti
 
 ### Functions
 
-- Procurement operating models, from intake to receipt
-- Government property compliance and audit readiness
-- Contract lifecycle and obligation tracking
-- Finance and financial operations
-- Materials management and manufacturing operations
-- Business development
-- Analytics, dashboards, and operational reporting
-- AI-assisted workflow design that keeps verified facts, assumptions, and missing evidence separate
+- Finance and Project Control
+- Contracts and Subcontracts
+- Procurement
+- Materials Management & Manufacturing
+- Government Property Compliance
+- Business Development
 
 ### Software and tools
 
-- Power BI
+- PowerBI:  Analytics, dashboards, and operational reporting
+- AI-assisted workflow design that keeps verified facts, assumptions, and missing evidence separate
