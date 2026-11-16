@@ -1,4 +1,4 @@
-<img src="images/banner.png" alt="Navy line drawing of a workflow: inputs, connected nodes, a decision, and three outcomes." width="100%">
+<img src="images/banner.png" alt="courtney-chapman: Business and technology solutions architect. Enterprise systems, analytics, automation and AI, beside a line drawing of a workflow from inputs to three outcomes over a contribution-style grid." width="100%">
 
 # Hi, I'm Courtney
 
