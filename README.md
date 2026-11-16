@@ -1,4 +1,4 @@
-<img src="images/banner.png" alt="courtney-chapman: Business and technology solutions architect. Enterprise systems, analytics, automation and AI, beside a line drawing of a workflow from inputs to three outcomes over a contribution-style grid." width="100%">
+<img src="https://raw.githubusercontent.com/courtney-chapman/courtney-chapman/d656e242ae2f2f7768b5c1c1906c83bec3f1c288/images/banner.png" alt="courtney-chapman: Business and technology solutions architect. Enterprise systems, analytics, automation and AI, beside a line drawing of a workflow from inputs to three outcomes over a contribution-style grid." width="100%">
 
 # Hi, I'm Courtney
 
