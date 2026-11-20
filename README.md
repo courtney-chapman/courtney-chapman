@@ -6,7 +6,7 @@ I design and build solutions to complex business, financial, and operational pro
 
 ## Explore my work
 
-<a href="https://github.com/courtney-chapman/tools-public"><img src="images/tools.png" alt="Tools and Plugins: offline browser apps and AI plugins for government property and procurement work." width="49%"></a>
+<a href="https://github.com/courtney-chapman/tools-public"><img src="images/tools.png" alt="Tools and Plugins: audit-ready by design. Compliance-ready solutions for government prime contractors and subcontractors, with offline browser apps and AI plugins." width="49%"></a>
 <a href="https://github.com/courtney-chapman/portfolio-public"><img src="images/portfolio.png" alt="Portfolio: governed AI workflows, public demonstrations for federal operations and compliance." width="49%"></a>
 
 - [Tools & Plugins](https://github.com/courtney-chapman/tools-public) — try the working tools and explore the AI plugins.
