@@ -6,11 +6,12 @@ I design and build solutions to complex business, financial, and operational pro
 
 ## Explore my work
 
-<a href="https://courtney-chapman.github.io/tools-public/"><img src="images/tools.png" alt="Audit-ready by design, built by Courtney. Solutions for government contractors. Not every problem needs another enterprise system. Start in minutes, not months." width="49%"></a>
-<a href="https://github.com/courtney-chapman/portfolio-public"><img src="images/portfolio.png" alt="Portfolio: governed AI workflows, public demonstrations for federal operations and compliance." width="49%"></a>
+<a href="https://courtney-chapman.github.io/tools-public/"><img src="images/tools.png" alt="Solutions for government contracting." width="49%"></a>
+<a href="https://courtneypetersonchapman.notion.site/"><img src="images/portfolio.png" alt="Portfolio: case studies and problem solving." width="49%"></a>
 
-- [Solutions for Government Contractors](https://courtney-chapman.github.io/tools-public/) — explore browser apps and AI plugins.
-- [Project Portfolio](https://github.com/courtney-chapman/portfolio-public) — see demonstrations, design decisions, and related projects.
+- [Solutions for Government Contractors](https://courtney-chapman.github.io/tools-public/) — apps and AI tools for procurement, government property, and contracts.
+- [Portfolio](https://courtneypetersonchapman.notion.site/) — case studies and problem solving.
+- [Demonstrations](https://github.com/courtney-chapman/portfolio-public) — governed AI workflow demonstrations, design decisions, and related projects.
 
 ## What I build
 
@@ -27,10 +28,11 @@ I design and build solutions to complex business, financial, and operational pro
 - **Development and automation:** HTML · CSS · JavaScript · VBA/macros · Power Automate · Workato
 - **Enterprise systems and platforms:** SAP Ariba · Deltek Costpoint · JAGGAER · Unanet · Salesforce · ServiceNow · Documentum · Jira · Confluence
 
-**Domain experience:** Enterprise finance and project controls; procurement, contracts, and supply chain; government property and regulatory compliance; business development and transformation—primarily in federal government contracting and complex enterprise environments.
+## Domain experience
+
+Enterprise finance and project controls; procurement, contracts, and supply chain; government property and regulatory compliance; business development and transformation—primarily in federal government contracting and complex enterprise environments.
 
 ## More links
 
-- [Visual Portfolio](https://courtneypetersonchapman.notion.site/) — a designed overview of selected work.
 - [How I Work](https://raw.githubusercontent.com/courtney-chapman/portfolio-public/main/01-projects/How%20I%20Work.pdf) — a slide deck on how I diagnose problems and design solutions.
 - [LinkedIn](https://www.linkedin.com/in/courtney-peterson-chapman/) — professional experience and background.
