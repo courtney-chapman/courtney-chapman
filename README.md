@@ -6,10 +6,10 @@ I design and build solutions to complex business, financial, and operational pro
 
 ## Explore my work
 
-<a href="https://github.com/courtney-chapman/tools-public"><img src="images/tools.png" alt="Audit-ready by design, built by Courtney. Solutions for government contractors. Not every problem needs another enterprise system. Start in minutes, not months." width="49%"></a>
+<a href="https://courtney-chapman.github.io/tools-public/"><img src="images/tools.png" alt="Audit-ready by design, built by Courtney. Solutions for government contractors. Not every problem needs another enterprise system. Start in minutes, not months." width="49%"></a>
 <a href="https://github.com/courtney-chapman/portfolio-public"><img src="images/portfolio.png" alt="Portfolio: governed AI workflows, public demonstrations for federal operations and compliance." width="49%"></a>
 
-- [Tools & Plugins](https://github.com/courtney-chapman/tools-public) — try the working tools and explore the AI plugins.
+- [Solutions for Government Contractors](https://courtney-chapman.github.io/tools-public/) — explore browser apps and AI plugins.
 - [Project Portfolio](https://github.com/courtney-chapman/portfolio-public) — see demonstrations, design decisions, and related projects.
 
 ## What I build
